@@ -1,7 +1,8 @@
 # ✨️ Hi, I'm Tania Khatun
 **Fullstack Developer || Electronics and Communication Engineering|| DSA Problem Solver**
 
-Email Me 👉 ✉️ **taniakhatun9a@gmail.com** For Collaboration/Project or Anything Else.
+Email Me 👉 [![Email](https://img.shields.io/badge/Email-taniakhatunofficial@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:taniakhatunofficial@gmail.com)
+ For Collaboration/Project or Anything Else.
 
 
 # 💫 About Me:
