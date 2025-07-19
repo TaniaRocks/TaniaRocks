@@ -1,12 +1,12 @@
 # ✨️ Hi, I'm Tania Khatun
-**Fullstack Developer || Electronics and Communication Engineering|| DSA Problem Solver**
+**Full stack Developer || Electronics and Communication Engineering || DSA Problem Solver**
 
 👉 [![Email](https://img.shields.io/badge/Email-taniakhatun9a@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9D4EDD)](mailto:taniakhatun9a@gmail.com)
  For Collaboration/Project or Anything Else.
 
 
 # 💫 About Me:
-## 🚀 About Me:<br><br>🌱 Aspiring full stack **developer** with a strong foundation in **front-end development**.<br>🔬 currently diving deep into the **Back End** and **Data Structures and Algorithms**.<br>✨ I believe **creativity is just as important as code**—whether it's in crafting intuitive UIs or solving backend logic elegantly.<br>👩‍💻 Highly active on **GitHub**, **Leetcode**, **LinkedIn** <br>🤝 I'm looking for **collaborative projects**, **exciting development opportunities**, and real-world challenges.<br>✨ **Fun fact: ** I treat every bug like a puzzle and every project like an adventure! 🎯
+## 🚀 About Me:<br><br>🌱 Aspiring full stack **developer** with a strong foundation in **front-end development**.<br>🔬 currently diving deep into the **Back End** and **Data Structures and Algorithms**.<br>✨ I believe **creativity is just as important as code**—whether it's in crafting intuitive UIs or solving backend logic elegantly.<br>👩‍💻 Highly active on **GitHub**, **Leetcode**, **LinkedIn** <br>🤝 I'm looking for **collaborative projects**, **exciting development opportunities**, and real-world challenges.<br>✨ Fun fact: I treat every bug like a puzzle and every project like an adventure! 🎯
 
 
 ## 🌐 Socials:
